@@ -9,3 +9,5 @@ Develop a Web Application that generates Maven 3 Archetypes give an input:
 SET UP PROJECT:
 mvn archetype:generate -DgroupId=com.dfwcomputech.maven.archgen -DartifactId=JMAG -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
 mvn eclipse:eclipse -Dwtpversion=2.0
+
+Test Fork @Andrew
